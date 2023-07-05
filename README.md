@@ -2,6 +2,8 @@
 The Random Quote Generator is a web application that retrieves quotes from an external API and displays them on the webpage. Users can click a button to get a new random quote and have the option to share the quote on Twitter.
 
 Features
+
+
 Generates random quotes from an external API.
 Displays the quote and its author on the webpage.
 Adjusts the styling based on the length of the quote.
