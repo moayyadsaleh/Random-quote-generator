@@ -15,4 +15,6 @@ CSS: to style the webapp.
 JavaScript:  the quote generation and interaction.
 The Random Quote Generator fetches quotes from an external API to provide a wide variety of content.
 
+Live Demo:https://moayyadsaleh.github.io/Random-quote-generator/
+
 ![quote generator](https://github.com/moayyadsaleh/Random-quote-generator/assets/137034202/8f865176-d444-478a-ac29-dbf3d2172723)
